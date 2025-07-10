@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shekhar Sai
-- 👀 I’m interested in developing video games
-- 🌱 I’m currently learning video game development
-- 📫 How to reach me; ssai@student.fullsail.edu
+- 👀 I make video games
+- - 📫 How to reach me; saishekhar7@gmail.com
 
 <!---
 GeeShey/GeeShey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
